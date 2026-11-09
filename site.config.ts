@@ -4,7 +4,7 @@ export default defineSiteConfig({
   url: 'https://your.site',
   lang: 'zh-CN',
   title: 'AIOVTUE',
-  subtitle: '雪',
+  subtitle: 'SW',
   author: {
     name: 'AIOVTUE',
     avatar: 'https://r2tc.20030327.xyz/file/博客/主题/1780655293662_avatar_me.jpg.PNG',   //站点头像
