@@ -5,7 +5,7 @@ import { computed } from 'vue'
 const props = withDefaults(defineProps<{
   siteshot?: string
 }>(), {
-  siteshot: 'https://r2tc.20030327.xyz/file/博客/主题/1780643226230_wallhaven-9d1yjk.png',
+  siteshot: '/',
 })
 
 const siteConfig = useSiteConfig()
